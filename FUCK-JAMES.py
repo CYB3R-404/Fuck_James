@@ -258,7 +258,7 @@ def file():
             logo()
             print('')
             print("\033[1;92m [01] File Clone ")
-            print("\033[1;92m [01] Public Clone ")
+            print("\033[1;92m [02] Public Clone ")
             key = input("\n [+] Select One : ")
             if key in [""]:
                 print(" [!] please select correct option")
