@@ -178,7 +178,7 @@ def logo():
 \033[1;92m    | [\033[1;31;1m©\033[1;92m]  [\033[1;31;1m©\033[1;92m] |​
  \033[1;92m   |  [\33[1;33m====\033[1;92m]  | [+] HACKER BANGLADESH [+]
 \033[1;92m╔══o00════════00o═════════════════════════╗
-\033[1;31;1m█ \033[1;92m [•] \033[1;31;1mAuthor    :  \033[1;92m Fuck James   \033[1;31;1m █
+\033[1;31;1m█ \033[1;92m [•] \033[1;31;1mAuthor    :  \033[1;92m Fuck James \033[1;31;1m █
 \033[1;31;1m█ \033[1;92m [•] \033[1;31;1mWhatsapp  :  \033[1;92m Termux Command World\033[1;31;1m █
 \033[1;31;1m█ \033[1;92m [•] \033[1;31;1mGorup Fb  :  \033[1;92m Termux Command World\033[1;31;1m █
 \033[1;31;1m█ \033[1;92m [•] \033[1;31;1mVersion   :  \033[1;92m 4.3                  \033[1;31;1m█
@@ -258,7 +258,7 @@ def file():
             logo()
             print('')
             print("\033[1;92m [01] File Clone ")
-         
+            print("\033[1;92m [01] Public Clone ")
             key = input("\n [+] Select One : ")
             if key in [""]:
                 print(" [!] please select correct option")
