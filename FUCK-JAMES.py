@@ -3,7 +3,7 @@
 
 #      (C) Copyright 407 Authentic Exploit
 #      Rebuild Copyright Can't make u real programmer:)
-#      Coded By RINKU Mahamood.
+#      Coded By RINKU.
 
 import os
 try:
@@ -258,7 +258,8 @@ def file():
             logo()
             print('')
             print("\033[1;92m [01] File Clone ")
-            key = input("\n [+] Select One : ")
+           print(" \033[1;92m [01] Public Clone
+        key = input("\n [+] Select One : ")
             if key in [""]:
                 print(" [!] please select correct option")
                 exit()
